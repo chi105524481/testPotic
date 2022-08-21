@@ -14,6 +14,9 @@
         <asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
         <asp:Button ID="Button1" runat="server" Text="一個按鈕" />
         <asp:CheckBox ID="CheckBox1" runat="server" Text="選項A" />
+        <asp:Localize ID="Localize1" runat="server"></asp:Localize>
+        <asp:Table ID="Table1" runat="server" Height="310px" Width="459px">
+        </asp:Table>
     </form>
 </body>
 </html>
