@@ -15,6 +15,7 @@
         <asp:Button ID="Button1" runat="server" Text="一個按鈕" />
         <asp:CheckBox ID="CheckBox1" runat="server" Text="選項A" />
         <asp:Localize ID="Localize1" runat="server"></asp:Localize>
+        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
         <asp:Table ID="Table1" runat="server" Height="310px" Width="459px">
         </asp:Table>
     </form>
