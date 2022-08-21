@@ -20,6 +20,9 @@
         <asp:Button ID="Button1" runat="server" Text="登入" />
         <asp:Button ID="Button2" runat="server" Text="分頁" />
         <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
+        <p>
+            <asp:Label ID="Label4" runat="server" Text="一個無用的label"></asp:Label>
+        </p>
     </form>
 </body>
 </html>
