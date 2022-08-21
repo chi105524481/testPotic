@@ -11,6 +11,9 @@
     <form id="form1" runat="server">
         <div>
         </div>
+        <asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
+        <asp:Button ID="Button1" runat="server" Text="一個按鈕" />
+        <asp:CheckBox ID="CheckBox1" runat="server" Text="選項A" />
     </form>
 </body>
 </html>
